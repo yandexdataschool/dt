@@ -1,3 +1,3 @@
 # Decision Train
 
-Machine learning classifier and regressor.
+Boosting-like algorithm
